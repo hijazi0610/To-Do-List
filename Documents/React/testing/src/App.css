@@ -1,0 +1,22 @@
+* {
+    background-color: peachpuff;
+}
+
+Header {
+    text-align: center;
+    font-size: 40px;
+    margin-top: 50px;
+}
+
+Form {
+    text-align: center;
+    margin-top: 40px;
+}
+
+button {
+    margin-left: 10px;
+}
+
+Todo {
+    text-align: center;
+}
